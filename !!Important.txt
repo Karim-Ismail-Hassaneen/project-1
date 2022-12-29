@@ -1,0 +1,8 @@
+
+<i class="fa-solid fa-display-code"></i>
+
+<i class="fa-solid fa-palette"></i>
+
+<i class="fa-solid fa-cart-shopping"></i>
+
+Skills Icons 
